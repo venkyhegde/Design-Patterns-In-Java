@@ -1,13 +1,19 @@
 package edu.uncc.decorator.ex3;
 
-public interface ShapeDecorator extends Shape {
+public abstract class ShapeDecorator implements Shape {
+    protected Shape shape;
 
+    public ShapeDecorator(Shape shape){
+        this.shape = shape;
+    }
+
+    public abstract void draw();
 }
 
-class RectDecorator implements ShapeDecorator{
-    Shape shape;
+class RectDecorator extends ShapeDecorator{
+
     public RectDecorator(Shape shape) {
-        this.shape = shape;
+        super(shape);
     }
 
     @Override
@@ -18,10 +24,10 @@ class RectDecorator implements ShapeDecorator{
     }
 }
 
-class CircleDecorator implements ShapeDecorator{
-    Shape shape;
+class CircleDecorator extends ShapeDecorator{
+
     public CircleDecorator(Shape shape) {
-        this.shape = shape;
+        super(shape);
     }
 
     @Override
