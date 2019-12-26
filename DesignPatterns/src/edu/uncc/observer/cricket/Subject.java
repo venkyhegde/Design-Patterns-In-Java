@@ -2,6 +2,7 @@ package edu.uncc.observer.cricket;
 
 
 import java.util.ArrayList;
+import java.util.List;
 
 public interface Subject {
     void register(Observer obj);
@@ -37,6 +38,6 @@ class CricketData implements Subject{
     public void notifyObservers() {
         if(!changeFlag)
             return;
-        List<Observer> localObservers = new ArrayList<Object>(this.observers);
+        List<Observer> localObservers = new ArrayList<>(this.observers);
     }
 }
