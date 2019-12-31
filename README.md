@@ -9,9 +9,9 @@
 
 [3. Delegation Principle.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/delegation "3. Delegation Principle.")
 
-[4. The Single Responsibility Principle.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/singleresponsibility "4. The Single Responsibility Principle.")
+[4. The Single Responsibility Principle.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/singleresponsibility "4. The Single Responsibility Principle.") (S)
 
-[5. Dependency Inversion.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/dip "5. Dependency Inversion.")
+[5. Dependency Inversion.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/dip "5. Dependency Inversion.") (D)
 
 [6. Dependency Injection.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/dependencyinjection "6. Dependency Injection.")
 
