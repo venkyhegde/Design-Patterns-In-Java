@@ -15,7 +15,7 @@
 
 [6. Liskov Substitution Principle](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/liskov "6. Liskov Substitution Principle") (L)
 
-[7. Interface Segregation Principle.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/interfaceseghttp:// "7. Interface Segregation Principle.") (I)
+[7. Interface Segregation Principle.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/interfaceseg "7. Interface Segregation Principle.") (I)
 
 [8. Dependency Inversion.](https://github.com/venkyhegde/Design-Patterns-In-Java/tree/master/DesignPrinciples/src/edu/uncc/dip "8. Dependency Inversion.") (D)
 
